@@ -1,4 +1,9 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# User Group Presentation 
+## Slidev presentation using markdown syntax
+
+Build:
+slidev build
+
 
 To start the slide show:
 
