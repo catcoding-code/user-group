@@ -1,6 +1,6 @@
 ---
-theme: ./theme
-background: https://source.unsplash.com/collection/94734566/1920x1080
+theme: default
+colorSchema: "dark"
 class: text-center
 highlighter: shiki
 lineNumbers: false
@@ -9,7 +9,10 @@ info: |
 drawings:
   persist: false
 transition: slide-left
-title: Cloudflare Pages Presentation
+title: Cloudflare Pages Presentationnpm
+fonts: 
+  sans: "Inter"
+  local: "Inter"
 ---
 
 <br>
