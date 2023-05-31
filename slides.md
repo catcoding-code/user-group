@@ -27,7 +27,7 @@ h2 {
 }
 </style>
 
-![alt text](images/logo.png)
+![alt text](/images/logo.png)
 
 <style>
   img {
@@ -72,18 +72,6 @@ You can have `style` tag in markdown to override the style for the current page.
 Learn more: https://sli.dev/guide/syntax#embedded-styles
 -->
 
-<style>
-h1 {
-  background-color: #FFFFFF;
-  background-image: #FFFFFF;
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  -moz-text-fill-color: transparent;
-}
-</style>
-
 <!--
 Here is another comment.
 -->
@@ -98,7 +86,7 @@ Here is another comment.
 
 ##### With the craze going on with ChatGPT why not create your own interface?
 
-![alt text](images/github.png)
+![alt text](/images/github.png)
 
 <style>
   img {
@@ -129,7 +117,7 @@ Here is another comment.
 <br>
 <br>
 
-![alt text](images/fork.png)
+![alt text](/images/fork.png)
 
 <style>
   img {
@@ -146,7 +134,7 @@ Here is another comment.
 
 # Let's build . . .
 
-![alt text](images/chatpad.png)
+![alt text](/images/chatpad.png)
 
 <style>
   img {
