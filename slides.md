@@ -10,7 +10,7 @@ drawings:
   persist: false
 transition: slide-left
 title: Cloudflare Pages Presentationnpm
-fonts: 
+fonts:
   sans: "Inter"
   local: "Inter"
 ---
@@ -51,6 +51,33 @@ h2 {
 <!--
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
 -->
+
+---
+
+<br>
+
+# Recent AI Announcements
+
+<div grid="~ cols-2 gap-4">
+<div>
+
+- Build ChatGPT plugin with Cloudflare Workers
+
+- Query Cloudflare Radar with ChatGPT plugin
+
+- Cloudflare AI Assistant: Cursor
+
+- Use Cloudflare One for AI to maintain Zero Trust posture
+
+</div>
+<div>
+
+<Tweet id="1660631853496258561" scale="0.8" style= "float: right"/>
+
+</div>
+</div>
+
+>
 
 ---
 
