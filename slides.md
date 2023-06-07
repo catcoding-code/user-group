@@ -174,3 +174,28 @@ Here is another comment.
     width: 70%
   }
 </style>
+
+---
+
+<br>
+
+# Cloudflare Connect
+
+<div grid="~ cols-2 gap-4">
+<div>
+
+Register HERE:
+
+https://events.www.cloudflare.com/connectsydney
+
+To attend Connect 2023 Sydney on 24th August including the developer track.
+
+Use the discount code DEVCLOUD to secure your spot in-person and to waive the $395 registration fee.
+
+</div>
+<div>
+
+<Tweet id="1665765955723468804" scale="0.8" style= "float: right"/>
+
+</div>
+</div>
